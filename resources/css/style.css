@@ -35,11 +35,12 @@ body {
 
 tr {
     text-align: center;
+    
 }
 
 table {
     margin: 0 auto;
-    width: 85%;
+/*     width: 85%; */
     text-align: center;
 }
 
