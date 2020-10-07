@@ -2,6 +2,10 @@ html {
     font-size: 18px;
 }
 
+* {
+  box-sizing: border-box;
+}
+
 body {
     background-color: #010165;
     margin: 0 auto;
@@ -27,7 +31,7 @@ body {
 
 table {
     margin: 0 auto;
-    width: 20rem;
+    width: 50%;
 }
 
 .instructions-number {
